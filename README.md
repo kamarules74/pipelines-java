@@ -1,5 +1,6 @@
 
-# Contributing
+# Contributing 
+[![Build Status](https://dev.azure.com/kamarules74/pipeline/_apis/build/status/kamarules74.pipelines-java?branchName=master)](https://dev.azure.com/kamarules74/pipeline/_build/latest?definitionId=3&branchName=master)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
